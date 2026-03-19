@@ -1,0 +1,4 @@
+MATERIAL =PLA
+SPOOL_WEIGHT =1500
+MAX_TEMP =250
+GCODE_FILE =instructions.gcode
