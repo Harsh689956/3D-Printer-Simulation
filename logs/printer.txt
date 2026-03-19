@@ -1,0 +1,11 @@
+[2026-03-19 14:22:39] X=22.52 Y=17.74 Z=1.00 | Temp=220C | Spool=1497g | Mat=PLA | Run=1 | EStop=0 | Done=0
+[2026-03-19 14:22:40] X=19.00 Y=21.93 Z=1.00 | Temp=220C | Spool=1493g | Mat=PLA | Run=1 | EStop=0 | Done=0
+[2026-03-19 14:22:40] X=15.00 Y=23.00 Z=1.00 | Temp=220C | Spool=1490g | Mat=PLA | Run=1 | EStop=0 | Done=0
+[2026-03-19 14:22:41] X=11.00 Y=21.93 Z=1.00 | Temp=221C | Spool=1487g | Mat=PLA | Run=1 | EStop=0 | Done=0
+[2026-03-19 14:22:41] X=7.48 Y=17.74 Z=1.00 | Temp=221C | Spool=1483g | Mat=PLA | Run=1 | EStop=0 | Done=0
+[2026-03-19 14:22:42] X=7.12 Y=13.61 Z=1.00 | Temp=223C | Spool=1480g | Mat=PLA | Run=1 | EStop=0 | Done=0
+[2026-03-19 14:22:42] X=8.87 Y=9.86 Z=1.00 | Temp=223C | Spool=1477g | Mat=PLA | Run=1 | EStop=0 | Done=0
+[2026-03-19 14:22:43] X=13.61 Y=7.12 Z=1.00 | Temp=223C | Spool=1473g | Mat=PLA | Run=1 | EStop=0 | Done=0
+[2026-03-19 14:22:43] X=17.74 Y=7.48 Z=1.00 | Temp=223C | Spool=1470g | Mat=PLA | Run=1 | EStop=0 | Done=0
+[2026-03-19 14:22:44] X=21.13 Y=9.86 Z=1.00 | Temp=225C | Spool=1467g | Mat=PLA | Run=1 | EStop=0 | Done=0
+[2026-03-19 14:22:44] X=21.93 Y=11.00 Z=1.00 | Temp=225C | Spool=1466g | Mat=PLA | Run=1 | EStop=1 | Done=0
