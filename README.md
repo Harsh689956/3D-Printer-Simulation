@@ -251,3 +251,20 @@ make
 ```bash
 ./init
 ```
+## Sample Outputs
+
+### Successful Print
+
+![Success](diagrams/Successful.png)
+
+---
+
+### Temperature Exceeded (Emergency Stop)
+
+![Over Temperature](diagrams/TemperatureExcedded.png)
+
+---
+
+### Spool Empty Condition
+
+![Spool Empty](diagrams/Nofilamentleft.png)
