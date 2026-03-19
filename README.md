@@ -33,7 +33,7 @@ This project simulates these components using independent processes and threads 
 ---
 
 ## System Architecture
-![Architecture](diagrams/architecture.png)
+![Architecture](diagrams/Architecture.png)
 ### 1. Initialization Process (init.c)
 
 Responsibilities:
