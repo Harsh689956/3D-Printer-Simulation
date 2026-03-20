@@ -249,7 +249,7 @@ make
 ## Run Instructions
 
 ```bash
-./init
+run
 ```
 ## Sample Outputs
 
